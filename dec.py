@@ -18,7 +18,7 @@ df.head()
 
 #Now we will perform exploratory data analysis
 sns.pairplot(df,hue='Kyphosis',palette='Set1')
-#the output for this line of code can be viewed in issue section of this repository 
+#The output for this line of code can be viewed in issue section of this repository  - https://tinyurl.com/ybp3992c
 
 
 #Train test split 
@@ -64,7 +64,7 @@ features
 
 #['Age', 'Number', 'Start']
 
-#The output for this line of code can be viewed at issue section of this repository
+#The output for this line of code can be viewed at issue section of this repository - https://tinyurl.com/ycp8xm8s
 
 
 #Random Forests
